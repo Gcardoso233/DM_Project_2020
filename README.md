@@ -8,7 +8,7 @@ A dataset was provided to analyse the results of one of the PVA’s latest fundr
 |:---------------------:|
 | 19/20                 |
 
-Contributors:
+Team:
 - Gabriel Cardoso (m20201027@novaims.unl.pt)
 - John Ruiz (m20200540@novaims.unl.pt)
 - Anastasiia Tagiltseva (m20200041@novaims.unl.pt)
